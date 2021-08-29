@@ -1,2 +1,6 @@
 # horiseon-ch1
-Challenge 1
+
+## Purpose
+Horiseon wanted to make their webpage more interactive. 
+
+## Built with
