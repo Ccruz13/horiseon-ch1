@@ -11,7 +11,7 @@ CSS
 Links in the nav are interactive.
 
 ## Screenshot
-![Screenshot](horiseon-ch1/horiseon-webpage.png)
+![Screenshot](asset/horiseon-webpage.png)
 ## Website
 https://ccruz13.github.io/horiseon-ch1/
 ## Contribution
